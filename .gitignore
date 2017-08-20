@@ -1,0 +1,45 @@
+# Created by .ignore support plugin (hsz.mobi)
+target/
+!.mvn/wrapper/maven-wrapper.jar
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+*.class
+*.idea
+*.name
+/*.iml
+/*.ipr
+/*.iws
+/.classpath
+/.idea
+/.project
+/.settings
+/ibderby
+/nb*
+/release.properties
+/target
+/test.db.lck
+/test.db.log
+/test.db.properties
+/test.db.script
+/test.db.tmp
+/src/docbkx
+velocity.log
+/bin
+/derby.log
